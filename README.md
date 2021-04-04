@@ -7,4 +7,4 @@ Step 0: Need to brush up my knowledge on Wireless Networks... gonna read the goo
 
 1. First step... even though i know nothing about AI in 5g, wireless networks or anything in telecommunications. I will start off by reading Dr. Melike Erol-Kantarci Research Papers available online and write summaries on them. From this I will take out the important topic and google about them to learn more. 
 
-2. Second Step... Dr. Melike said that Desingning Algorithms is so important in Research, so i need to start improving my Designing and Algorithmns and Analysis skills. Look into existing AI Wireless Networks algorithms and try re-implementing them. 
+2. Second Step... Dr. Melike said that Designing Algorithms is so important in Research, so i need to start improving my Designing and Algorithms and Analysis skills. Look into existing AI Wireless Networks algorithms and try re-implementing them. 
