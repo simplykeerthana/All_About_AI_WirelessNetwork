@@ -3,8 +3,8 @@ Learning more about wireless networks, and about existing research in AI enabled
 
 Learning Resources:
 
-Step 0: Need to brush up my knowledge on Wireless Networks... gonna read the good old Book "Computer Networking - A Top-Down Approach" 7th Edition - Chapter 7 that covers wireless, mobile networking WiFi networks and cellular networks inclusing 4g and LTE
+Step 0: Need to brush up my knowledge on Wireless Networks... gonna read the good old Book "Computer Networking - A Top-Down Approach" 7th Edition - Chapter 7 that covers wireless, mobile networking WiFi networks and cellular networks inclusing 4g and LTE... and watch several open-sourced lecture videos. 
 
 1. First step... even though i know nothing about AI in 5g, wireless networks or anything in telecommunications. I will start off by reading Dr. Melike Erol-Kantarci Research Papers available online and write summaries on them. From this I will take out the important topic and google about them to learn more. 
 
-2. 
+2. Second Step... Dr. Melike said that Desingning Algorithms is so important in Research, so i need to start improving my Designing and Algorithmns and Analysis skills. 
