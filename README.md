@@ -1,5 +1,5 @@
 # All_About_AI_WirelessNetwork
-Learning more about wireless networks, and about existing research in AI enabled wireless networks. I don't know but for some reasons my interests started  shifting to Wireless Networks and the use of AI in it... pretty cool stuff on the outside. It's like a paradigm shift to my educational interests.  So i am making this learning repo to cummulate resources to learn in-depth. 
+Learning more about wireless networks, and about existing research in AI enabled wireless networks. I don't know but for some reasons my interests started  shifting to Wireless Networks and the use of AI in it... pretty cool stuff on the outside. It's like a paradigm shift to my educational interests.  So i am making this learning repo to cummulate resources to learn in-depth. Probably I will create a mini-website to show the information. 
 
 Learning Resources:
 
