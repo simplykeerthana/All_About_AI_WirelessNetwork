@@ -8,7 +8,7 @@ Learning Areas:
 2. ML Algorithms
 3. Computer Networks
 4. Wireless Networks
-5. Telecomminications
+5. Tele-Communications
 
 
 For each of these learning areas, we will post a series of summarized research papers from TOP AI Enabled Computer Networks, 5g, 6g researchers in the world.
