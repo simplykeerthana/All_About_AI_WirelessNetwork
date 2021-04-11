@@ -7,7 +7,7 @@ Learning Areas:
 1. AI Basics
 2. ML Algorithms
 3. Computer Networks
-4. Wireleess Networks
+4. Wireless Networks
 5. Telecomminications
 
 
