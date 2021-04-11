@@ -1,10 +1,16 @@
 # All_About_AI_WirelessNetwork
-Learning more about wireless networks, and about existing research in AI enabled wireless networks. I don't know but for some reasons my interests started  shifting to Wireless Networks and the use of AI in it... pretty cool stuff on the outside. It's like a paradigm shift to my educational interests.  So i am making this learning repo to cummulate resources to learn in-depth. Probably I will create a mini-website to show the information. 
+Learning more about wireless networks, and about existing research in AI enabled wireless networks. I don't know but for some reasons my interests started  shifting to Wireless Networks and the use of AI in it... pretty cool stuff on the outside. It's like a paradigm shift to my educational interests. In colloboration with Mohammad Chegini, an electrical engineer student from Shahid Beheshti University, Iran, we will be sharing a curated collection of resources to learn AI, Telecommunications and Wireless Networks. 
 
-Learning Resources:
 
-Step 0: Need to brush up my knowledge on Wireless Networks... gonna read the good old Book "Computer Networking - A Top-Down Approach" 7th Edition - Chapter 7 that covers wireless, mobile networking WiFi networks and cellular networks inclusing 4g and LTE... and watch several open-sourced lecture videos. 
+Learning Areas: 
 
-1. First step... even though i know nothing about AI in 5g, wireless networks or anything in telecommunications. I will start off by reading Dr. Melike Erol-Kantarci Research Papers available online and write summaries on them. From this I will take out the important topic and google about them to learn more. 
+1. AI Basics
+2. ML Algorithms
+3. Computer Networks
+4. Wireleess Networks
+5. Telecomminications
 
-2. Second Step... Dr. Melike said that Designing Algorithms is so important in Research, so i need to start improving my Designing  Algorithms and Analysis skills. Look into existing AI Wireless Networks algorithms and try re-implementing them. 
+
+For each of these learning areas, we will post a series of summarized research papers from TOP AI Enabled Computer Networks, 5g, 6g researchers in the world.
+
+
