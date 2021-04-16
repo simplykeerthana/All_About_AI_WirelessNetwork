@@ -1,5 +1,12 @@
 Learning resources available online to learn more and in-depth information about Wireless Networks... like books to read, youtube channels, researchers to follow, great github repos with code.
 
+Greatest books for learning about Telecom systems, New Era and Wireless Networks:
+
 <a href="https://www.amazon.co.uk/Wireless-Communications-Andrea-Goldsmith/dp/0521837162">Wireless Communications by Andrea Goldsmith</a>
 
 <a href="https://www.amazon.co.uk/Introduction-5G-Radio-Network-Beyond/dp/1119602661">An Introduction to 5G: The New Radio, 5G Network and Beyond, Christopher Cox</a>
+
+
+Simulations:
+
+<a href="https://www.wiley.com/en-gb/Problem+Based+Learning+in+Communication+Systems+Using+MATLAB+and+Simulink-p-9781119060345">Problem Based Learning in Communication Systems Using MATLAB and Simulink</a>
