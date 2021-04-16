@@ -15,3 +15,6 @@ Simulations:
 
 <a href="https://www.amazon.com/exec/obidos/ASIN/1118443411/themathworks">Understanding LTE with MATLAB - From Mathematical modeling to simulation and prototyping</a>
 <a href=""></a>
+
+
+<a href="https://arxiv.org/abs/2001.08159">Must read paper</a>
