@@ -30,3 +30,13 @@ Books
   <li> Simulation Tools and Techniques ISBN-13 : 978-3030322151</li> 
   <li> Telecommunications Essentials ISBN-13 : 978-1632409072</li>           
 </ul>
+
+Researchers to Follow
+
+<ul>
+  <li> Anil K. Jain, Michigan State University</li>
+  <li> Yoshua Bengio, University of Montreal</li>
+  <li> Andrew Ng, Stanford University</li>
+  <li><a href="https://www.communications-major.com/communications-professors/"> 25 Communications Professors to Know </a> 
+                    </li>
+  </ul>
