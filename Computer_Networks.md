@@ -1,5 +1,4 @@
-Learning resources available online to learn Computer Networks... like books to read, youtube channels, researchers to follow, great github repos with code.
-
+Learning resources available online to learn Computer Networks..
 Resources
 
 <ul> 
@@ -28,9 +27,13 @@ Books
 
 Youtube Channels
 
+<ul>
+  <li> <a href="https://www.youtube.com/user/Cisco/video"> Cisco</a></li>
+  <li> <a href="https://www.youtube.com/user/thenetworkingdoctors/videos"> The Networking Doctors</a></li>
+  <li> <a href="https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w/videos" > David Bombal</a></li>
+  <li> <a href="https://www.youtube.com/user/NetworkChuck/videos" > NetworkChuck </a></li>
+  <li> <a href="https://www.youtube.com/user/NexGenT/videos" > NexGenT </a></li>
+  
+  </ul>
 
-
-
-
-Researchers to Follow
 
