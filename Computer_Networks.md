@@ -1,5 +1,4 @@
-Learning resources available online to learn Computer Networks..
-Resources
+Learning resources available online to learn Computer Networks...
 
 <ul> 
                   <li><a href="https://www.ibm.com/cloud/learn/networking-a-complete-guide"> Fundamentals of Networking</a> 
