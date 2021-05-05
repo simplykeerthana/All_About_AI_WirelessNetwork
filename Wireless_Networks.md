@@ -31,4 +31,5 @@ Researchers to follow:
   <li>Mohamed-Slim Alouini</li>
   <li>Mischa Dohler</li>
   <li>Vincent Poor</li>
+  <li>Marco Di Renzo</li>
 </ul>
