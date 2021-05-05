@@ -21,3 +21,14 @@ Simulations:
 
 <a href="https://arxiv.org/abs/2001.08159">Artificial Intelligence Enabled Wireless Networking for 5G and Beyond: Recent Advances and Future Challenges</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8808168">The Roadmap to 6G: AI Empowered Wireless Networks</a>
+
+
+Researchers to follow:
+<ul>
+  <li>Melike Erol-Kantarci</li>
+  <li>Halim Yanikomeroglu</li>
+  <li>Walid Saad</li>
+  <li>Mohamed-Slim Alouini</li>
+  <li>Mischa Dohler</li>
+  <li>Vincent Poor</li>
+</ul>
