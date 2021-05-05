@@ -3,14 +3,9 @@ Learning resources available online to learn AI... like books to read,  youtube 
 
 Books:
 
-<ul> 
-                      <li><a href="https://www.wired.com/gallery/best-books-artificial-intelligence/">The 8 Best Books about Artficial Intelligence to Read Now</a> 
-                    </li>
-  
-  
-  
-                    
-
+<ul>
+  <li><a href="https://www.wired.com/gallery/best-books-artificial-intelligence/">The 8 Best Books about Artficial Intelligence to Read Now</a></li>
+  <li><a href="https://www.wiley.com/en-us/Toward+6G:+A+New+Era+of+Convergence-p-9781119658023">Toward 6G: A New Era of Convergence</a></li>
 </ul>
 
 
